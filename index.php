@@ -1,5 +1,8 @@
 <?php
-<h1>
-    Test
-</h2>
-?>
+echo "Hello world";
+
+// ... more code
+
+echo "Last statement";
+
+// the script ends here with no PHP closing tag

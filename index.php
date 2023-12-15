@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<?php
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -8,4 +8,4 @@
 <body>
     Test
 </body>
-</html>
+</html>?>
